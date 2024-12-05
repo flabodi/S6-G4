@@ -1,0 +1,32 @@
+.avatar img {
+    width: 40px;
+    border-radius: 50%;
+}
+
+.icon {
+    color: grey;
+    width: 40px;
+    height: 40px;
+  background-color: rgba(128, 128, 128, 0.219);
+    padding: 10px;
+    border-radius: 50%;
+}
+.hero {
+    background-color:#7550FE ;
+}
+.heroImg img {
+    margin-top: 40px;
+    width: 350px;
+}
+.btn1 {
+    background-color:#1ACB98 ;
+    color: white;
+    margin-right: 0;
+}
+.flag h4 ,
+.flag p {
+    font-size:11px ;
+}
+.cardIcon {
+    width: 16px;
+}
